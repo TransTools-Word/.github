@@ -22,7 +22,7 @@ People look for TransTools Word add-in because a CAT grid is not always the righ
 
 TransTools stays light on purpose. You open the document you already keep, run the command you need, and return to writing. Students doing coursework in Word, freelancers with client Excel packs, and technical writers who also touch drawings on a PC they own can all use it without changing their whole toolchain.
 
-![TransTools](https://www.ic-ia.com/img/transtools2.jpg)
+![TransTools](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-5MD3RjruZ0alK0_05WKaIGvg0factkD5xfWA5-oFA&s)
 
 ---
 
